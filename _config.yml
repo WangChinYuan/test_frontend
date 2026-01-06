@@ -1,3 +1,5 @@
-theme: jekyll-theme-slate
-title: 我的第一個靜態網站
-description: 這是用 GitHub Pages 建立的測試站
+title: "SEDA-Gtech"
+description: "Professional AI & Tech Solutions"
+theme: jekyll-theme-prime 
+plugins:
+  - jekyll-seo-tag
