@@ -4,29 +4,7 @@ title: 程式碼展示中心
 permalink: /code-preview/
 ---
 
-<style>
-  body {
-    background-color: #1a1a1a !important;
-    color: #e0e0e0 !important;
-  }
-  .wrapper { max-width: 1000px; margin: 0 auto; padding: 40px; }
-  h1, h2 { color: #fff; border-bottom: 1px solid #333; padding-bottom: 10px; }
-  code { background-color: #333 !important; color: #ff9 !important; }
-  
-  /* 返回按鈕 */
-  .back-btn {
-    display: inline-block;
-    margin-bottom: 20px;
-    color: #888;
-    text-decoration: none;
-    font-size: 0.9rem;
-  }
-  .back-btn:hover { color: #fff; }
-</style>
-
-<div class="wrapper">
-
-<a href="../" class="back-btn">← 返回首頁</a>
+<a href="../" style="display:inline-block; margin-bottom:20px; color:#aaa; text-decoration:none;">← 返回首頁</a>
 
 # 程式碼預覽介面
 

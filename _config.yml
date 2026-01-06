@@ -1,5 +1,5 @@
 title: "SEDA-Gtech"
 description: "Professional AI & Tech Solutions"
-theme: jekyll-theme-prime 
+theme: jekyll-theme-midnight 
 plugins:
   - jekyll-seo-tag
