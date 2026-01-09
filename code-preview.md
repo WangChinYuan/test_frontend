@@ -4,7 +4,6 @@ title: 程式碼展示中心
 permalink: /code-preview/
 ---
 
-<!DOCTYPE html>
 <html lang="zh-TW">
 <head>
     <meta charset="UTF-8">
