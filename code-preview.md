@@ -12,8 +12,8 @@ permalink: /code-preview/
 
   <h1 style="margin-bottom: 10px;">程式碼預覽介面</h1>
   <p style="color: #888; margin-bottom: 40px;">這裡展示公司核心的技術解決方案與前端特效。</p>
-
-  <h1>核心程式碼 (CSS)</h3>
+</div>
+### 核心程式碼 (CSS)
 
 ```css
 /* SEDA G-Tech 品牌綠霓虹燈特效 */
@@ -23,4 +23,4 @@ permalink: /code-preview/
 }
 ```
 
-</div>
+
