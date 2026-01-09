@@ -4,38 +4,23 @@ title: 程式碼展示中心
 permalink: /code-preview/
 ---
 
-<a href="../" style="display:inline-block; margin-bottom:20px; color:#aaa; text-decoration:none;">← 返回首頁</a>
+<div class="container container-wide">
 
-# 程式碼預覽介面
+  <div style="margin-top: 40px; margin-bottom: 20px;">
+    <a href="../" class="btn btn-primary">← 返回首頁</a>
+  </div>
 
-這裡展示公司核心的技術解決方案與前端特效。
+  <h1 style="margin-bottom: 10px;">程式碼預覽介面</h1>
+  <p style="color: #888; margin-bottom: 40px;">這裡展示公司核心的技術解決方案與前端特效。</p>
 
-## 專案：Neon Light Effect
-
-<div class="demo-box" style="border:1px solid #333; padding:40px; text-align:center; background:#000; margin:20px 0; border-radius:10px;">
-  <div class="neon-text">HOVER ME</div>
-</div>
-
-<style>
-  .neon-text {
-    font-size: 3rem;
-    color: #fff;
-    font-weight: bold;
-    text-shadow: 0 0 5px #fff;
-    cursor: pointer;
-    transition: 0.3s;
-  }
-  .neon-text:hover {
-    text-shadow: 0 0 5px #fff, 0 0 20px #0ff, 0 0 40px #0ff;
-  }
-</style>
-
-### 核心程式碼 (React / CSS)
+  <h1>核心程式碼 (CSS)</h3>
 
 ```css
+/* SEDA G-Tech 品牌綠霓虹燈特效 */
 .neon-text:hover {
-  text-shadow: 
-    0 0 5px #fff, 
-    0 0 20px #0ff, 
-    0 0 40px #0ff;
+  text-shadow: 0 0 10px #fff, /* 白光核心 */ 0 0 20px #5ca761,
+    /* 淺綠光暈 */ 0 0 40px #5ca761, /* 中層擴散 */ 0 0 80px #5ca761; /* 氛圍背光 */
 }
+```
+
+</div>
