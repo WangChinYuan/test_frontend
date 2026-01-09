@@ -5,7 +5,7 @@ permalink: /code-preview/
 ---
 
 <!DOCTYPE html>
-<html lang="zh-TW">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -26,6 +26,9 @@ permalink: /code-preview/
       <h1 style="margin-bottom: 10px;">程式碼預覽介面</h1>
       <p style="color: #888; margin-bottom: 40px;">這裡展示公司核心的技術解決方案與前端特效。</p>
 
+</div> 
+</body>
+
       ### 核心程式碼 (CSS)
 
       ```css
@@ -35,9 +38,3 @@ permalink: /code-preview/
         /* 淺綠光暈 */ 0 0 40px #5ca761, /* 中層擴散 */ 0 0 80px #5ca761; /* 氛圍背光 */
       }
       ```
-
-
-
-</div> 
-</body>
-</html>
