@@ -3,6 +3,12 @@ layout: default
 title: 程式碼展示中心
 permalink: /code-preview/
 ---
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GTech - 充滿信任與感動的精準照護</title>
+    <link rel="stylesheet" href="style.css">
+</head>
 
 <div class="container container-wide">
 
